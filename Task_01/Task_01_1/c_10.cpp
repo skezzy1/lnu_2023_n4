@@ -19,4 +19,6 @@ int main() {
 		else if((a && b && c)!=d){cout << max(d-a, max(d-b, d-c));}
 		else { cout << "Nothing is equal to d. Result is: ";}
 	}
+	cin.get();
+	return 0;
 }
