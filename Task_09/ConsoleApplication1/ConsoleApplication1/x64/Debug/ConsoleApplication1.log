@@ -1,3 +1,0 @@
-﻿  MyTry.cpp
-MyTry.obj : error LNK2005: main already defined in ConsoleApplication1.obj
-D:\GitHub projects\lnu_2023_pma12_n4\task9\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe : fatal error LNK1169: one or more multiply defined symbols found

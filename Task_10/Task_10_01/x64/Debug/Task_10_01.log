@@ -1,4 +1,0 @@
-﻿  Task_10_01.cpp
-D:\GitHub projects\lnu_2023_pma12_n4\Task_10_01\Task_10_01\Task_10_01.cpp(41,20): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
-D:\GitHub projects\lnu_2023_pma12_n4\Task_10_01\Task_10_01\Task_10_01.cpp(72,27): warning C4305: 'argument': truncation from 'double' to 'float'
-  Task_10_01.vcxproj -> D:\GitHub projects\lnu_2023_pma12_n4\Task_10_01\x64\Debug\Task_10_01.exe
